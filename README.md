@@ -1,5 +1,6 @@
 # Namma-Yatri
-<img width="580" alt="autoDriverMob-NammaYatri" src="https://github.com/user-attachments/assets/27a840c2-7393-4d23-b7ef-40bbefb3d7ce" />
+
+![main logo](https://github.com/user-attachments/assets/f26510e9-9746-41bc-b750-deb516e81546)
 
 # Project Overview
 Namma Yatri App is tailored for travelers exploring Karnataka, India, offering indispensable insights into travel logistics, local attractions, and cultural nuances. With multilingual support, it delivers personalized recommendations and includes a journey tracker for seamless navigation
